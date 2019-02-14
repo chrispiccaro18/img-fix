@@ -1,2 +1,2 @@
 const image = document.getElementById('image');
-image.src = './colville.jpg';
+image.src = 'assets/colville.jpg';
